@@ -1,0 +1,25 @@
+nav {
+    background-image: url('https://picsum.photos/2400/200');
+    color:white;
+}
+
+a {
+    color:white
+}
+
+body{
+    font-family: 'Arial', sans-serif;
+    }
+
+    h3 {
+    background-color: #d7cd40;
+}
+
+h1, h2, h3, h5 {
+    font-family: 'Georgia', serif;
+    color: #c8241b;
+}
+
+article:hover {
+    background-color: #e0e0e0;
+}
